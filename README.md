@@ -1,7 +1,7 @@
 # GroceryList
 Grocery List application using Sqlite Database.
 
-Highlighted content cover
+Highlighted concept :
 - Sqlite Database
 - RecyclerView
 - AlertDialog
